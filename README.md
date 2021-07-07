@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kdiab
+- 👀 I’m interested in Web Development, Chat Bot Development, Natural Language Processing, niche projects.
+- 🌱 I’m currently learning C++, Python
+- 📫 How to reach me: khalidiab@protonmail.com

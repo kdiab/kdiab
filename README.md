@@ -1,3 +1,1 @@
-- 👀 I’m interested in Web Development, Chat Bot Development, Natural Language Processing, Rust.
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: khalid@diab.cc
+In love with C

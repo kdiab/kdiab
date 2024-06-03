@@ -1,6 +1,6 @@
 
 <div>
-  <h3>Hello, World!<a href="https://www.linkedin.com/in/khalidiab" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo" align="right"/></a></h3>
+  <h3>Hello, World!<a href="https://www.linkedin.com/in/khalidiab" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo" align="right"/></a></h3>
 </div>
 
 ###

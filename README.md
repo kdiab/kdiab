@@ -8,7 +8,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdiab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="180" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdiab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&hide=html" height="180" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=kdiab&theme=rose-pine&hide_border=true&card_width=375&card_height=180" alt="streak graph"  />
 
 ###
